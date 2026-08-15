@@ -1,5 +1,5 @@
 === Disable XML-RPC ===
-Contributors: juliepr
+Contributors: sashmarin
 Tags: xml-rpc, xmlrpc, security, pingback
 Requires at least: 6.0
 Requires PHP: 7.4
